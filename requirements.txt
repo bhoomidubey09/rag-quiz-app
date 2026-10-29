@@ -1,0 +1,7 @@
+streamlit>=1.38
+pypdf>=4.0
+sentence-transformers>=3.0
+faiss-cpu>=1.8
+groq>=0.11
+python-dotenv>=1.0
+numpy>=1.26
